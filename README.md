@@ -79,7 +79,4 @@ If you’d like to connect or collaborate:
 - LinkedIn: https://www.linkedin.com/in/anshu-reddy/
 - GitHub: https://github.com/AnshuReddyAshanna
 - Medium: https://medium.com/@anshuredi2905
-- Email: anshuredi2905@gmailcom
-
-# License
-All rights reserved © 2026 Anshu Reddy Ashanna
+- Email: anshuredi2905@gmail.com
