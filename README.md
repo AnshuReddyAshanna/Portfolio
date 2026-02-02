@@ -74,32 +74,12 @@ Includes:
 - Messages are stored via Google Apps Script
 - Success feedback is shown after submission
 
-# Project Structure 
-├── index.html
-├── css/
-│   ├── style.css
-│   ├── skins/
-│   │   ├── color-1.css
-│   │   ├── color-2.css
-│   │   └── ...
-│   └── style-switcher.css
-├── js/
-│   ├── script.js
-│   └── style-switcher.js
-├── Images/
-│   ├── photo.jpg
-│   ├── blog1.png
-│   ├── blog2.png
-│   ├── p1.jpg
-│   └── ...
-└── .github/workflows
-
-# License
-All rights reserved © 2026 Anshu Reddy Ashanna
-
 # Contact
 If you’d like to connect or collaborate:
 - LinkedIn: https://www.linkedin.com/in/anshu-reddy/
 - GitHub: https://github.com/AnshuReddyAshanna
 - Medium: https://medium.com/@anshuredi2905
 - Email: anshuredi2905@gmailcom
+
+# License
+All rights reserved © 2026 Anshu Reddy Ashanna
